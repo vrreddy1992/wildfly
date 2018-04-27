@@ -1,2 +1,0 @@
-# wildfly
-wildfly deployment
